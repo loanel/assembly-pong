@@ -1,8 +1,7 @@
 ## assembly-pong
 # Installation guide:
 The easiest way to run the game is using the dosbox operating system. Newer versions of windows will not run the game properly.
-1. Install dosbox
-
+1. Install dosbox : https://www.dosbox.com/
 2. Download the MASM compiler and linker
 
 3. Copy the contents of repository into the masm and link directory
